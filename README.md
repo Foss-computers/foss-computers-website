@@ -1,2 +1,2 @@
-# foss-computers-website
+# FOSS computers website
 The website for Foss Computers
